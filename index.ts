@@ -4,7 +4,7 @@ import en from './en'
 // forbidden so i commented this out import fi from './fi'
 import fr from './fr'
 import hi from './hi'
-import id from './id'
+// import id from './id'
 import kr from './kr'
 import pl from './pl'
 import pt from './pt'
@@ -17,7 +17,7 @@ export default {
   en,
   fr,
   hi,
-  id,
+  // id,
   kr,
   pl,
   pt,
